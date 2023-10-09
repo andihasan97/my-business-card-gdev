@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Business Card GDev</string>
+    <string name="logo_android">Logo android</string>
+    <string name="andi_hasan_a">Andi Hasan A</string>
+    <string name="android_developer">Android Developer Extraordinaire</string>
+    <string name="ikon_telepon">Ikon Telepon</string>
+    <string name="ikon_share">Ikon Share</string>
+    <string name="ikon_email">Ikon Email</string>
+    <string name="my_number_phone">+11 (123) 444 555 666</string>
+    <string name="androiddev">\@AndroidDev</string>
+    <string name="my_email">andihasan@android.com</string>
+</resources>
